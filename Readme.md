@@ -11,7 +11,7 @@ Create a server folder add index.js and express code.
 After that, we will create a script in package.json that will start our web server when we run it with npm start:
 ...
 "scripts": {
-  "start": "node server/index.js"
+  "start": "node server-bodeJS/index.js"
 },
 ...
 
