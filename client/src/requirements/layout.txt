@@ -1,6 +1,0 @@
-
-components:
-1)NavBar
-2)Request 
-3)Response
-
